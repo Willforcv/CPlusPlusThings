@@ -55,7 +55,7 @@
 
 ### 1.基础进阶
 
-- [`const` 那些事](./basic_content/const)
+- [`const` 那些事](./basic_content/const/README.md)
 - [`static` 那些事](./basic_content/static)
 - [`this` 那些事](./basic_content/this)
 - [`inline` 那些事](./basic_content/inline)
